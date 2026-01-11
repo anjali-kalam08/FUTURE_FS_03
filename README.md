@@ -1,11 +1,11 @@
-# Welcome to your Lovable project
+#Welcome to Glossier Product Website
 
-## Project info
 
+LIVE DEMO:
 https://sparkle-studio-bot.lovable.app
 
 
-
+REPOSITORY LINK:
 https://github.com/anjali-kalam08/glossier-glow-up.git
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
