@@ -1,5 +1,17 @@
-#Welcome to Glossier Product Website
+TASK 3 - GLOSSIER PRODUCT WEBSITE
 
+
+This project is created as a part of Full Stack Web Development Internship at Future Interns.
+
+
+Technologies Used:
+-> Lovable AI
+-> HTML
+-> CSS
+
+Rebranded a famous brand's website using AI 
+
+#Welcome to Glossier Product Website
 
 LIVE DEMO:
 https://sparkle-studio-bot.lovable.app
