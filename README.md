@@ -2,6 +2,8 @@
 
 ## Project info
 
+https://github.com/anjali-kalam08/glossier-glow-up.git
+
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 ## How can I edit this code?
