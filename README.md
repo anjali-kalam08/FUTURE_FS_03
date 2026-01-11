@@ -2,6 +2,10 @@
 
 ## Project info
 
+https://sparkle-studio-bot.lovable.app
+
+
+
 https://github.com/anjali-kalam08/glossier-glow-up.git
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
